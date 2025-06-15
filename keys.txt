@@ -1,1 +1,1 @@
-test(num:5, time:30min)
+test
